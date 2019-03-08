@@ -1,0 +1,11 @@
+dist/
+node_modules/
+.temp/
+.rn_temp/
+
+
+yarn-*
+env-*
+
+.idea/
+.DS_Store
